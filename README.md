@@ -5,4 +5,3 @@ Following is the implementation of java compiler to validate syntax. The lexer f
 Add these files to a java project in eclipse/netbeans or any other java IDE. Run **gui.java** file.
 
 
-
